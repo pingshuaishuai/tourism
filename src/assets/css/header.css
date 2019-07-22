@@ -1,0 +1,4 @@
+#header{display: flex;justify-content: space-between;padding: .2rem .5rem}
+#header .logo{font-size: .36rem;line-height: .5rem;font-weight: 600}
+#header .menu{width: .5rem;height: .5rem;background: url(../images/menu.png) no-repeat}
+
